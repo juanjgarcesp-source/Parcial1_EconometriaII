@@ -3,7 +3,7 @@
 
 **Autor:** Juan José Garcés Pineda
 **Materia:** Econometría
-**Universidad del Quindío:**
+Universidad del Quindío
 
 ## Contenido
 - `parcial1_nbasal.R`: script con especificación, descriptivos, estimación MCO,
